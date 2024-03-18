@@ -1361,7 +1361,7 @@
     <!--
     <struts2.version>2.3.24</struts2.version>
     -->
-    <spring-security.version>3.2.8.RELEASE</spring-security.version>
+    <spring-security.version>5.8.11</spring-security.version>
     <hibernate.version>4.3.11.Final</hibernate.version>
     <hibernate-validator.version>5.2.2.Final</hibernate-validator.version>
     <javassist.version>3.20.0-GA</javassist.version>
